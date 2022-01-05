@@ -1,6 +1,2 @@
 # MessManager
-
-Developed by :
-  Rashed Ahmed
-  Department of CSE
-  Daffodil International University
+## Object Oriented Programing(OOP) Course Lab Project
